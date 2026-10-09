@@ -1,12 +1,773 @@
 {
-  "shows": {},
+  "shows": {
+    "RAKK|4626|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4626|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4631|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4631|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4632|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4632|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4633|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4633|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4633|20261015|LOUNGER": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "LOUNGER",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RAKK|4634|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4634|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4634|20261015|LOUNGER": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "LOUNGER",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4639|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:00 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4639|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:00 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RAKK|4643|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:10 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4643|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:10 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4643|20261015|LOUNGER": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:10 PM",
+      "date": "20261015",
+      "cat": "LOUNGER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4647|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:10 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4647|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:10 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4627|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:20 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4627|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:20 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RAKK|4635|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:20 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RAKK|4635|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:20 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4635|20261015|LOUNGER": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:20 PM",
+      "date": "20261015",
+      "cat": "LOUNGER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4644|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "03:35 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RAKK|4644|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "03:35 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4644|20261015|LOUNGER": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "03:35 PM",
+      "date": "20261015",
+      "cat": "LOUNGER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4648|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "03:35 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4648|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "03:35 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4640|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "03:45 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "1"
+    },
+    "RAKK|4640|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "03:45 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4628|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "04:00 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4628|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "04:00 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RAKK|4636|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "04:00 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4636|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "04:00 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4636|20261015|LOUNGER": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "04:00 PM",
+      "date": "20261015",
+      "cat": "LOUNGER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4645|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:10 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4645|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:10 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4645|20261015|LOUNGER": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:10 PM",
+      "date": "20261015",
+      "cat": "LOUNGER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4649|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:10 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4649|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:10 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RAKK|4641|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:20 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4641|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:20 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RAKK|4637|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4637|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RAKK|4637|20261015|LOUNGER": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "LOUNGER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4629|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:40 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4629|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:40 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RAKK|4646|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:40 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4646|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:40 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4646|20261015|LOUNGER": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:40 PM",
+      "date": "20261015",
+      "cat": "LOUNGER",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RAKK|4650|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:50 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4650|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:50 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4638|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:55 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "1"
+    },
+    "RAKK|4638|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:55 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4638|20261015|LOUNGER": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:55 PM",
+      "date": "20261015",
+      "cat": "LOUNGER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4642|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:55 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "1"
+    },
+    "RAKK|4642|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:55 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|4630|20261015|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "11:20 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RAKK|4630|20261015|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "11:20 PM",
+      "date": "20261015",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RRGB|1460|20261015|PREMIUM CIRCLE": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "PREMIUM CIRCLE",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RRGB|1460|20261015|EXECUTIVE CLASS": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "EXECUTIVE CLASS",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RRGB|1465|20261015|PREMIUM CIRCLE": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "PREMIUM CIRCLE",
+      "price": "190.00",
+      "status": "0"
+    },
+    "RRGB|1465|20261015|EXECUTIVE CLASS": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "EXECUTIVE CLASS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1461|20261015|PREMIUM CIRCLE": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "12:05 PM",
+      "date": "20261015",
+      "cat": "PREMIUM CIRCLE",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1461|20261015|EXECUTIVE CLASS": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "12:05 PM",
+      "date": "20261015",
+      "cat": "EXECUTIVE CLASS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1466|20261015|PREMIUM CIRCLE": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "12:20 PM",
+      "date": "20261015",
+      "cat": "PREMIUM CIRCLE",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1466|20261015|EXECUTIVE CLASS": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "12:20 PM",
+      "date": "20261015",
+      "cat": "EXECUTIVE CLASS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1462|20261015|PREMIUM CIRCLE": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "03:40 PM",
+      "date": "20261015",
+      "cat": "PREMIUM CIRCLE",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1462|20261015|EXECUTIVE CLASS": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "03:40 PM",
+      "date": "20261015",
+      "cat": "EXECUTIVE CLASS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1467|20261015|PREMIUM CIRCLE": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "04:00 PM",
+      "date": "20261015",
+      "cat": "PREMIUM CIRCLE",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1467|20261015|EXECUTIVE CLASS": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "04:00 PM",
+      "date": "20261015",
+      "cat": "EXECUTIVE CLASS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1463|20261015|PREMIUM CIRCLE": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "PREMIUM CIRCLE",
+      "price": "190.00",
+      "status": "2"
+    },
+    "RRGB|1463|20261015|EXECUTIVE CLASS": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "EXECUTIVE CLASS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1468|20261015|PREMIUM CIRCLE": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "07:45 PM",
+      "date": "20261015",
+      "cat": "PREMIUM CIRCLE",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1468|20261015|EXECUTIVE CLASS": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "07:45 PM",
+      "date": "20261015",
+      "cat": "EXECUTIVE CLASS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1464|20261015|PREMIUM CIRCLE": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "11:15 PM",
+      "date": "20261015",
+      "cat": "PREMIUM CIRCLE",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1464|20261015|EXECUTIVE CLASS": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "11:15 PM",
+      "date": "20261015",
+      "cat": "EXECUTIVE CLASS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1469|20261015|PREMIUM CIRCLE": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "11:30 PM",
+      "date": "20261015",
+      "cat": "PREMIUM CIRCLE",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RRGB|1469|20261015|EXECUTIVE CLASS": {
+      "venue": "Rakki RGB Laser 4K: Thiruvallur",
+      "time": "11:30 PM",
+      "date": "20261015",
+      "cat": "EXECUTIVE CLASS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "MCXF|722|20261015|BOX": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "BOX",
+      "price": "190.00",
+      "status": "0"
+    },
+    "MCXF|722|20261015|Premium": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "0"
+    },
+    "MCXF|722|20261015|Executive": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "08:30 AM",
+      "date": "20261015",
+      "cat": "Executive",
+      "price": "190.00",
+      "status": "1"
+    },
+    "MCXF|723|20261015|BOX": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "12:05 PM",
+      "date": "20261015",
+      "cat": "BOX",
+      "price": "190.00",
+      "status": "0"
+    },
+    "MCXF|723|20261015|Premium": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "12:05 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "1"
+    },
+    "MCXF|723|20261015|Executive": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "12:05 PM",
+      "date": "20261015",
+      "cat": "Executive",
+      "price": "190.00",
+      "status": "3"
+    },
+    "MCXF|724|20261015|BOX": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "03:40 PM",
+      "date": "20261015",
+      "cat": "BOX",
+      "price": "190.00",
+      "status": "0"
+    },
+    "MCXF|724|20261015|Premium": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "03:40 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "2"
+    },
+    "MCXF|724|20261015|Executive": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "03:40 PM",
+      "date": "20261015",
+      "cat": "Executive",
+      "price": "190.00",
+      "status": "3"
+    },
+    "MCXF|725|20261015|BOX": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "BOX",
+      "price": "190.00",
+      "status": "0"
+    },
+    "MCXF|725|20261015|Premium": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "1"
+    },
+    "MCXF|725|20261015|Executive": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "Executive",
+      "price": "190.00",
+      "status": "2"
+    },
+    "MCXF|726|20261015|BOX": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "11:15 PM",
+      "date": "20261015",
+      "cat": "BOX",
+      "price": "190.00",
+      "status": "0"
+    },
+    "MCXF|726|20261015|Premium": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "11:15 PM",
+      "date": "20261015",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "2"
+    },
+    "MCXF|726|20261015|Executive": {
+      "venue": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos: Avadi",
+      "time": "11:15 PM",
+      "date": "20261015",
+      "cat": "Executive",
+      "price": "190.00",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20261009": "AVAILABLE",
-    "20261010": "AVAILABLE",
-    "20261011": "AVAILABLE",
-    "20261012": "BOOKABLE",
-    "20261013": "AVAILABLE",
-    "20261014": "AVAILABLE",
-    "20261015": "NOT_OPEN"
+    "20261015": "BOOKABLE",
+    "20261016": "AVAILABLE",
+    "20261017": "AVAILABLE",
+    "20261018": "AVAILABLE",
+    "20261019": "AVAILABLE",
+    "20261020": "AVAILABLE",
+    "20261021": "NOT_OPEN"
   }
 }
